@@ -1,2 +1,3 @@
 # Desarrollo-web-006D
-codigos que se desarrollan mediantes las clases
+codigos que se desarrollan  durante las clases
+
